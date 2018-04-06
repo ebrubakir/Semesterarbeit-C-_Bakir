@@ -1,0 +1,11 @@
+<!ELEMENT fluege (abflug, destination, time, company, ankunft, ziel, uhrzeit, gesellschaft )>
+<!ELEMENT abflug ( destination, time, company )>
+<!ELEMENT ankunft ( ziel, uhrzeit, gesellschaft )>
+
+<!ELEMENT destination (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT company (#PCDATA)>
+
+<!ELEMENT ziel (#PCDATA)>
+<!ELEMENT uhrzeit (#PCDATA)>
+<!ELEMENT gesellschaft (#PCDATA)>

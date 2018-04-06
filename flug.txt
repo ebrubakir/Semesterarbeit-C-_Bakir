@@ -1,0 +1,2 @@
+<flug>langzeitstrecke</flug>
+<flug>kurzzeitstrecke</flug>

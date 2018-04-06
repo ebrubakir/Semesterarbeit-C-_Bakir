@@ -1,0 +1,14 @@
+﻿<fluege>
+
+	<abflug>
+			<destination> Mumbai </destination>
+			<time> 18 </time>
+			<company> etihad </company>
+	</abflug>
+
+	<ankunft>
+			<ziel> Ankara </ziel>
+			<uhrzeit> 11 </uhrzeit>
+			<gesellschaft> pegasus </gesellschaft>
+	</ankunft>
+</fluege>
